@@ -14,6 +14,7 @@ This research made use of postgres, Google Colab, and Amazon RDS in order to sto
 
 # Results: 
 
+![vine_statistics](https://user-images.githubusercontent.com/119453505/237038837-5f225703-5cc5-40d4-9d7e-959c1cc3d6ff.png)
 
 o	How many Vine reviews and non-Vine reviews were there?
 There are 613 Vine reviews compared to the 64,698 non-Vine reviews.
